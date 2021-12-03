@@ -1,0 +1,12 @@
+prefixes:
+  bme280: bme280-driver
+  pixel_strip: toit-pixel-strip
+packages:
+  bme280-driver:
+    url: github.com/toitware/bme280-driver
+    version: 1.0.0
+    hash: 65b88ac19a5e2b48627a2dbae6d7757ae45c502c
+  toit-pixel-strip:
+    url: github.com/toitware/toit-pixel-strip
+    version: 0.1.0
+    hash: e601387ee5dde1f7fd32acbb787b99a0f45eb73a
