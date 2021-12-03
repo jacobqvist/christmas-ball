@@ -20,10 +20,11 @@ main:
   while true:
     if scd30.is_ready:
       co2_level = scd30.read.co2_
-    sleep --ms=20
+    print co2_level
     if co2_level > 2000:
       light.main "red"
     else:
       light.main "green"
+    sleep --ms=20
 
   
