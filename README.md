@@ -24,7 +24,7 @@ NeoPixel Jewel
 - GND > GND
 - 5V > 5V DC
 
-![Circuit schematic](media/schematic.png)
+![Circuit schematic](media/scd30.png)
 
 ### 3. Running the program
 Prepare the open source Toit language by following the steps [here](https://github.com/toitlang/toit).
