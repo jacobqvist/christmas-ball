@@ -1,6 +1,0 @@
-name: Christmas ball
-entrypoint: main.toit
-triggers:
-  on_install: true
-  on_boot: true
-  on_interval: 60s
