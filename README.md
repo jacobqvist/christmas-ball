@@ -1,5 +1,7 @@
 # Christmas ball
 
+Dancing around the christmas tree, unwrapping presents and having a good time together with the family can lead to a lack of time perception. Over time the level of CO2 will accumulate to a level that can cause headache, which is a horrible way to end christmas night. This christmas ball will gently show when the level of CO2 is above a given threshold. I decided to have a threshold of 2000 ppm, but according to [dhs.wisconsin.gov](https://www.dhs.wisconsin.gov/chemical/carbondioxide.htm#:~:text=400%E2%80%931%2C000%20ppm%3A%20typical%20level,stagnant%2C%20stale%2C%20stuffy%20air) a level below 1000 is to be prefered.
+
 Dancing around the christmas tree, unwrapping presents and having a good time together with the family can lead to a lack of time perception. Over time the level of CO2 will accumulate to a level that can cause headache, which is a horrible way to end christmas night. This christmas ball will show when the level of CO2 is above a given threshold. I decided to have a threshold of 2000 ppm, but according to [dhs.wisconsin.gov](https://www.dhs.wisconsin.gov/chemical/carbondioxide.htm#:~:text=400%E2%80%931%2C000%20ppm%3A%20typical%20level,stagnant%2C%20stale%2C%20stuffy%20air) a level below 1000 is to be prefered.
 
 ![Christmas ball reacting to CO2 from flame](media/christmasball.gif)
