@@ -1,7 +1,7 @@
 dependencies:
-  bme280:
-    url: github.com/toitware/bme280-driver
-    version: ^1.0.0
   pixel_strip:
     url: github.com/toitware/toit-pixel-strip
     version: ^0.1.0
+  scd30_driver:
+    url: github.com/qvisten999/scd30
+    version: ^1.0.0

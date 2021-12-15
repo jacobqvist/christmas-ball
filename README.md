@@ -35,16 +35,15 @@ NeoPixel Jewel
 
 ### 3. Running the program
 
-Prepare the open source Toit language by following the steps [here](https://github.com/toitlang/toit).
+I used Jaguar from Toit as it is really fast for developing in a non test-driven prototyping environment. It offers hotreload in a second, with the watch command.
 
-Compile an ESP32 image from the program:
+Read more on how to set it up at [Toit Jaguar](https://github.com/toitlang/jaguar).
+
+Afterwards:
 
 ```
-cd <path-to-toit-lang>
-make esp32 ESP32_ENTRY=<path-to-christmas-ball>/christmas-ball/main.toit
+jaguar watch src/main.toit
 ```
-
-Connect the ESP32 to your computer and flash the program by pasting the output from `make esp32` into the terminal.
 
 ### 4. Enjoy christmas without a headache
 
