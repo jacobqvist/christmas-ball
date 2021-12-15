@@ -19,6 +19,7 @@ main:
 
   while true:
     co2_level = scd30.read.co2
+    print "Current CO2 level: $co2_level"
     if co2_level > 2000:
       light.main "red"
     else:
